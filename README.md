@@ -8,15 +8,15 @@ An interactive, five-page Power BI dashboard that analyzes credit card customer 
 
 | Summary | Customer Insights |
 |---|---|
-| ![Summary](assets/1_Summary.JPG) | ![Customer Insights](assets/2_Customer_Insights.JPG) |
+| ![Summary](1_Summary.JPG) | ![Customer Insights](2_Customer_Insights.JPG) |
 
 | Behavioral Analysis | Transactional Analysis |
 |---|---|
-| ![Behavioral Analysis](assets/3_Behavioral_Analysis.JPG) | ![Transactional Analysis](assets/4_Transactional_Analysis.JPG) |
+| ![Behavioral Analysis](3_Behavioral_Analysis.JPG) | ![Transactional Analysis](4_Transactional_Analysis.JPG) |
 
 | Churn Insights |
 |---|
-| ![Churn Insights](assets/5_Churn_Analysis.JPG) |
+| ![Churn Insights](5_Churn_Analysis.JPG) |
 
 ---
 
@@ -103,34 +103,6 @@ Risk segmentation to support retention targeting.
 | Data modeling | Power Query (cleaning, binning, segmentation) |
 | Calculations | DAX measures (Churn Rate %, averages, banded metrics) |
 | Features | Slicers, custom navigation sidebar, multi-page layout, risk segmentation |
-
----
-
-## Repository Structure
-
-```
-.
-├── assets/                  # Dashboard screenshots
-│   ├── 1_Summary.JPG
-│   ├── 2_Customer_Insights.JPG
-│   ├── 3_Behavioral_Analysis.JPG
-│   ├── 4_Transactional_Analysis.JPG
-│   └── 5_Churn_Analysis.JPG
-├── Customer_Churn_Dashboard.pbix
-├── data/                    # Source dataset
-└── README.md
-```
-
-> Update file names above to match your repository.
-
----
-
-## How to Use
-
-1. Clone this repository.
-2. Open `Customer_Churn_Dashboard.pbix` in **Power BI Desktop**.
-3. Use the sidebar navigation to move between pages.
-4. Use the slicers on the Summary page (Attrition Flag, Education Level, Total Transaction Count) to filter the report.
 
 ---
 
