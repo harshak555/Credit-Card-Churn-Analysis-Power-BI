@@ -134,7 +134,7 @@ The strongest early-warning indicators are:
 Data Analyst | SQL · Power BI · DAX · Python
 
 - LinkedIn: [Harsha Vardhan Kolagani](https://www.linkedin.com/in/harshavardhank189/)
-- GitHub: [(https://github.com/harshak555)]
+- GitHub: [Harsha Vardhan Kolagani Portfolio](https://github.com/harshak555)
 
 ---
 
