@@ -8,7 +8,7 @@ An interactive, five-page Power BI dashboard that analyzes credit card customer 
 
 | Summary | Customer Insights |
 |---|---|
-| [Summary](1_Summary.JPG) | ![Customer Insights](2_Customer_Insights.JPG) |
+| ![Summary](1_Summary.JPG) | ![Customer Insights](2_Customer_Insights.JPG) |
 
 | Behavioral Analysis | Transactional Analysis |
 |---|---|
